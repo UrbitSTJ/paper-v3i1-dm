@@ -1,3 +1,11 @@
+<!-- ustj-doi -->
+# Directed Messaging
+
+Ted Blackman ~rovnys-ricfer, Joe Bryan ~master-morzod, Luke Champine ~watter-parter, Pyry Kovanen ~dinleb-rambep, Jose Cisneros ~norsyr-torryn, Liam Fitzgerald ~hastuc-dibtux. *Urbit Systems Technical Journal* 3(1), 2026.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24389653.svg)](https://doi.org/10.5281/zenodo.24389653) [Read on urbitsystems.tech](https://urbitsystems.tech/article/v03-i01/directed-messaging)
+<!-- /ustj-doi -->
+
 # Urbit Systems Technical Journal—Template Repo
 
 Welcome, prospective USTJ author.  Please keep the following in mind:
